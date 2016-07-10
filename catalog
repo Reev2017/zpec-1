@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+</head>
+<body>
+  	<header class="page-header">
+      	<div class="container">
+     		 <div class="logo">
+      			<img src="" alt="" class="logopicture" />
+          		<span class="logotext"><b>Спецтех24</b></span>
+      		</div>
+      		<nav>
+      			<ul>
+      				<li><a href="">О компании</a></li>
+      				<li><a href="">Каталог</a></li>
+      				<li><a href="">Портфолио</a></li>
+                  	<li><a href="">Контакты</a></li>
+      			</ul>
+        	</nav> 
+          	<button class="btn btn-orderup">Заказать звонок</button>
+        </div>	  
+  	</header>
+	<main>
+		<div class="container">
+			<div class="bezotkaz">
+          		<h1 class="varendu">Техника: Экскаваторы в аренду</h1>
+          		<p>Спецтех это безотказная техника, принципиально новый уровень сервиса и качества.<br> 
+             	 Если вы искали идеальных партнеров на объект - Вы нашли их.<br>
+             	 Что понадобиться нам сегодня?
+            	</p>
+          	</div>
+          	<div class="zakazzvonka">
+              	<a href="" class="needcons"> Мне нужна консультация</a>
+				<span class="zayavka">Оставьте заявку, и уже сегодня мы вам перезвоним</span>            	  	
+          	</div>
+      		<div class="alltechnic">
+      			<div class="list-technics"></div>
+              		<img class="alltechlogo"src="" alt="" />
+              		<h2>Вся техника</h2>
+              		<ul>
+              			<li><a href="">Гусеничные экскаваторы</a></li>
+              			<li><a href="">Колосные экскаватры</a></li>
+              			<li><a href="">Мини-экскаваторы</a></li>
+              			<li><a href="">Автокраны</a></li>
+              			<li><a href="">Фронтальные погрузчики</a></li>
+              			<li><a href="">Навесное оборудование</a></li>
+              			<li><a href="">Дизельгенераторы</a></li>
+					</ul>
+              		<a class="catalog "href="">Скачать каталог</a>
+      			</div>
+          		<div class="examples">
+          			<div class="catm315d">
+          				<h3>rКолесный экскаватор Cat M315D</h3>
+                  		<img src="#" alt="" />
+                  		<p class="inmonth"><span class="monthpayment">25 000</span>/месяц</p>
+                  		<ul>
+                  			<li><a href="#">Арендовать</a></li>
+                  			<li><a href="#">Подробнее</a></li>
+                  		</ul>
+          			</div>
+              		<div class="catm315d">
+          				<h3>rКолесный экскаватор Cat M315D</h3>
+                  		<img src="#" alt="" />
+                  		<p class="inmonth"><span class="monthpayment">25 000</span>/месяц</p>
+                  		<ul>
+                  			<li><a href="#">Арендовать</a></li>
+                  			<li><a href="#">Подробнее</a></li>
+                  		</ul>
+          			</div>
+              		<div class="catm315d">
+          				<h3>rКолесный экскаватор Cat M315D</h3>
+                      <img src="#" alt="" />
+                      <p class="inmonth"><span class="monthpayment">25 000</span>/месяц</p>
+                      <ul>
+                          <li><a href="#">Арендовать</a></li>
+                  		<li><a href="#">Подробнее</a></li>
+                      </ul>
+                  </div>
+                  <div class="catm315d">
+                      <h3>rКолесный экскаватор Cat M315D</h3>
+                      <img src="#" alt="" />
+                      <p class="inmonth"><span class="monthpayment">25 000</span>/месяц</p>
+                      <ul>
+                          <li><a href="#">Арендовать</a></li>
+                          <li><a href="#">Подробнее</a></li>
+                      </ul>
+          			</div>
+              		<div class="pages">
+              			<ul>
+              				<li><a href=""></a>1</li>
+              				<li><a href=""></a>2</li>
+              				<li><a href=""></a>3</li>
+              			</ul>
+              		</div>
+             	</div>
+              		<div class="container">	
+          				<div class="specialprices">
+              				<div class="specials">
+              					<h3>rКолесный экскаватор Cat M315D</h3>
+                  				<img src="#" alt="" />
+                  				<p class="inmonth"><span class="monthpayment">25 000</span>/месяц</p>
+                  				<ul>
+                  					<li><a href="#">Арендовать</a></li>
+                  					<li><a href="#">Подробнее</a></li>
+                  				</ul>
+              				</div>
+              			<div class="specials">
+              				<h3>rКолесный экскаватор Cat M315D</h3>
+                  			<img src="#" alt="" />
+                  			<p class="inmonth"><span class="monthpayment">25 000</span>/месяц</p>
+                  			<ul>
+                  				<li><a href="#">Арендовать</a></li>
+                  				<li><a href="#">Подробнее</a></li>
+                  			</ul>
+              			</div>
+              			<div class="specials">
+              				<h3>rКолесный экскаватор Cat M315D</h3>
+                  			<img src="#" alt="" />
+                  			<p class="inmonth"><span class="monthpayment">25 000</span>/месяц</p>
+                  			<ul>
+                  				<li><a href="#">Арендовать</a></li>
+                  				<li><a href="#">Подробнее</a></li>
+                  			</ul>
+              			</div>
+              		</div>
+          		</div>
+          	</div>
+	</main>
+  <footer>
+  		<div class="logo-d">
+          	<div class="container">
+            	<div class="pagefooter">
+      				<img src="" alt="" class="logopicturebottom" />
+          			<span class="logotextbottom"><b>CСпецтех24</b></span>
+      			<nav>
+      				<ul>
+      				<li><a class="bottomlinks" href="">О компании</a></li>
+      				<li><a class="bottomlinks" href="">Каталог</a></li>
+      				<li><a class="bottomlinks" href="">Портфолио</a></li>
+      				<li><a class="bottomlinks" href="">Контакты</a></li>
+      				<li><a class="orderbuttonbottom" href="">Заказать звонок</a></li>
+      			</ul>
+        		</nav> 
+                <button class="btn btn-orderbottom">Заказать звонок</button>
+        	</div>
+      	</div>
+    </div>
+  </footer>
+</body>
+</html>
