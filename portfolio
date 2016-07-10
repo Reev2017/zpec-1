@@ -1,4 +1,4 @@
-
+<!-- Пишем только разметку -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,8 +21,8 @@
       				<li><a href="#">Контакты</a></li>
       			</ul>
   			</nav>
-          	<button class="btn btn-order">Заказать звонок</button>
-        </div>
+          		<a class="btn btn-order">Заказать звонок</a>
+		 </div>
  	</header>
   <main>
   	<div class="portfolio">
@@ -62,7 +62,7 @@
             <input class="consult-item" type="text" placeholder="Как вас зовут?">
             <input class="consult-item" type="text" placeholder="Номер для связи">
             <input class="consult-item" type="text" placeholder="Выберите дату">
-            <button class="btn btn-consult">Заказать консультацию</button>
+            <a class="btn btn-consult">Заказать консультацию</a>
           </form>
         </div> 
       </section> 
@@ -98,7 +98,7 @@
             <li><a href="#">Контакты</a></li> 
           </ul> 
         </nav>
-        <button class="btn btn-order">Заказать звонок</button>
+        <a class="btn btn-order">Заказать звонок</a>
       </div> 
     </footer> 
   </body> 
