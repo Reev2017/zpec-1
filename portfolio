@@ -1,0 +1,105 @@
+<!-- Пишем только разметку -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+</head>
+<body>
+	<header class="main_menu">
+  		<div class="container">
+      			<a href="" class ="logo">
+        			<img src="" alt=""/ class="logo-img">
+      				<span class="textlogo"><b>СпецТех</b>24
+      				</span>
+      			</a>
+  			<nav class="menulinks">
+      			<ul>
+      				<li><a href="#">О Компании</a></li>
+      				<li><a href="#">Каталог</a></li>
+      				<li><a href="#">Портфолио</a></li>
+      				<li><a href="#">Контакты</a></li>
+      			</ul>
+  			</nav>
+          	<button class="btn btn-order">Заказать звонок</button>
+        </div>
+ 	</header>
+  <main>
+  	<div class="portfolio">
+  		<div class="container">
+      		<h2 class="portfoliohead">Портфолио</h2>
+      		<ul class="portfoliomenu">
+      			<li><a href="#">Все работы</a></li>
+      			<li><a href="#">Строительство</a></li>
+      			<li><a href="#">Демонтаж</a></li>
+      			<li><a href="#">Земляные работы</a></li>
+      			<li><a href="#">Перевозка</a></li>
+      		</ul>
+      	</div>
+  	</div>
+    <section class="portfolio-item portfolio-item-wood">
+          <div class="container">
+            	<div class= "portfolio-item__card"> 
+              		<h3>Строительство жилого дома в деревушке на севере холма</h3> 
+             		 <p>Спецтех24 — это сеть пунктов аренды спецтехники Cat, оборудования и специализированных инструментов для выполнения большинства видов работ.</p> 
+             		 <a href="" class="btn btn-about">Подробнее</a> 
+           		 </div> 
+          </div>
+   	</section> 
+    <section class="portfolio-item portfolio-item-wood">
+         	<div class="container">
+            	<div class= "portfolio-item__card"> 
+              		<h3>Строительство жилого дома в деревушке на севере холма</h3> 
+              		<p>Спецтех24 — это сеть пунктов аренды спецтехники Cat, оборудования и специализированных инструментов для выполнения большинства видов работ.</p> 
+              		<a href="" class="btn btn-about">Подробнее</a> 
+            	</div> 
+     		</div>
+     </section>    
+    <section class="consult"> 
+        <div class="container"> 
+          <h3 class="consult-title">Закажите бесплатную консультацию по подбору подходящей техники</h3>
+          <form action="#" class="consult-form">
+            <input class="consult-item" type="text" placeholder="Как вас зовут?">
+            <input class="consult-item" type="text" placeholder="Номер для связи">
+            <input class="consult-item" type="text" placeholder="Выберите дату">
+            <button class="btn btn-consult">Заказать консультацию</button>
+          </form>
+        </div> 
+      </section> 
+    <div class="advantages"> 
+        <div class="container"> 
+          <div class="advantages-item advantages-item-tools"> 
+            <p>Техника проходит обязательное обслуживание перед каждым выездом</p> 
+          </div> 
+          <div class="advantages-item advantages-item-work"> 
+            <p>Все машины оборудованы спец.сигналами, для предупреждения аварий</p> 
+          </div> 
+          <div class="advantages-item advantages-item-border"> 
+          </div> 
+          <p>Привезем модные строительные ограждения к каждому заказу от 20 000</p> 
+          <div class="advantages-item advantages-item-worker"> 
+            <p>С техникой приедут квалифицированные операторы и водители</p> 
+          </div> 
+        </div> 
+      </div> 
+    </main> 
+
+    <footer class="page-footer"> 
+      <div class="container"> 
+        <a href="" class="logo"> 
+          <img src="" alt="logo" class="logo-img"> 
+          <span class="logo-text"><b>Спецтех</b>24</span> 
+        </a> 
+        <nav class="main-nav"> 
+          <ul> 
+            <li><a href="#">О компании</a></li> 
+            <li><a href="#">Каталог</a></li> 
+            <li><a href="#" class="active">Портфолио</a></li> 
+            <li><a href="#">Контакты</a></li> 
+          </ul> 
+        </nav>
+        <button class="btn btn-order">Заказать звонок</button>
+      </div> 
+    </footer> 
+  </body> 
+</html>
