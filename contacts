@@ -1,4 +1,4 @@
-
+<!-- Пишем только разметку -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +21,7 @@
       				<li><a href="#">Контакты</a></li>
       			</ul>
   			</nav>
-          	<button class="btn btn-order">Заказать звонок</button>
+          	<a class="btn btn-order">Заказать звонок</a>
         </div>
  	</header>
 	<main>
@@ -32,7 +32,7 @@
                   	<p>Свяжитесь с нами, и все будет хорошо</p>
 				</div>
               	<div class="rightdiv">
-              		<button class="need-consult"> Мне нужна консультация</button>
+              		<a class="need-consult"> Мне нужна консультация</a>
               	</div>
 			</div>
 		</div>
@@ -56,7 +56,7 @@
                       			<input type="text" placeholder="Имя">
                           		<input type="text" placeholder="Телефон для связи">
                           		<textarea name="#" placeholder="Описание задачи (можно примерное)"></textarea>
-                              	<button class="btnod">Получить консультацию</button>
+                              	<a class="btnod">Получить консультацию</a>
                       		</form>
                   	</div>
               	</div>
@@ -100,7 +100,7 @@
               <li><a class="orderbuttonbottom" href="">Заказать звонок</a></li>
             </ul>
             </nav> 
-                <button class="btn btn-orderbottom">Заказать звонок</button>
+                <a class="btn btn-orderbottom">Заказать звонок</a>
           </div>
         </div>
     </div>
